@@ -175,7 +175,7 @@ Knowledge retrieval systems using embeddings and Large Language Models.
 - Master Deep Learning concepts
 - Develop real-world AI applications
 - Learn Generative AI and RAG systems
-- Explore Agentic AI frameworks
+- Explore Agentic AI framework
 - Prepare for internships and placements
 - Build a professional AI portfolio
 
@@ -200,9 +200,3 @@ Knowledge retrieval systems using embeddings and Large Language Models.
 ✔ Flask Deployment
 
 ✔ Agentic AI
-
-🔄 Advanced Generative AI Projects
-
----
-
-time." 🚀**
