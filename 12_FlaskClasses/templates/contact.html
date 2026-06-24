@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block title %}Contact Page{% endblock %}
+
+
+{% block content %}
+  <h1>Contact Page</h1>
+  <p>Welcome to contact.html page</p>
+
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+
+{% endblock %}
+
+{% block footer %}
+      &copy; Copyright 2026 by <a href="www.apnacollege.in">Apna College</a>.
+{% endblock %}
+
